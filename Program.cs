@@ -4,7 +4,7 @@ using RestSharp.Authenticators;
 using System;
 using System.Collections.Generic;
 
-namespace Emaillabs_sendmail_example
+namespace EmaillabsExample
 {
     class EmaillabsResponse
     {
